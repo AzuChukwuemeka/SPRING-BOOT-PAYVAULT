@@ -1,4 +1,4 @@
-const BASE = '/api';
+const BASE = 'https://spring-boot-payvault.onrender.com/api';
 
 export interface User {
   id: number;
